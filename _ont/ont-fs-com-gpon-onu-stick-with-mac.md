@@ -1,5 +1,5 @@
 ---
-title: ONT FS.com GPON ONU Stick with MAC (GPON-ONU-34-20BI)
+title: FS.com GPON ONU Stick with MAC (GPON-ONU-34-20BI)
 has_children: true
 alias: SourcePhotonics SPS-34-24T-HP-TDFO
 parent: ONT FS.com
